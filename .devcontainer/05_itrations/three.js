@@ -1,3 +1,5 @@
+// forof loop mostly used with arrays
+
 // for of 
 
 // ["", "", ""]
